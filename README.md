@@ -1,7 +1,7 @@
 ![Banner](./banner.png)
 
 # 💫 About Me:
-🌟 Fast learner with a passion for exploring new technologies.<br>💻 Currently learning Node.js and Express.js to master backend development.<br>🌐 Working on building RESTful APIs to strengthen my skills.<br>🔗 Interested in Blockchain and its potential to transform the future.<br>📘 Eager to contribute to open-source and grow with the tech community.
+🌟 Fast learner with a passion for exploring new technologies.<br>💻 Currently learning JWT authentication to master backend development.<br>🌐 Working on building a donation platform to strengthen my full stack skills.<br>🔗 Interested in Blockchain and its potential to transform the future.<br>📘 Eager to contribute to open-source and grow with the tech community.
 
 
 ## 🌐 Socials:
