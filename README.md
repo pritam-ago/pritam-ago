@@ -27,18 +27,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=pritam-ago&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/uddmq75aofzimuamqwj5lroeu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=uddmq75aofzimuamqwj5lroeu&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 ---
 [![](https://visitcount.itsvg.in/api?id=pritam-ago&icon=2&color=12)](https://visitcount.itsvg.in)
 
