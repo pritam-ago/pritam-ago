@@ -1,43 +1,29 @@
 ![Banner](./banner.png)
 
-# Vikas Pritam S
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpritam-ago%2Fpritam-ago&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/https://x.com/MonsterTonGames)](https://twitter.com/https://x.com/MonsterTonGames)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/vikas-pritam-176601281//)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/https://www.instagram.com/fruity_gumbo//)](https://www.instagram.com/https://www.instagram.com/fruity_gumbo/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:pritamsocrates@gmail.com)
-
-[![Github](https://img.shields.io/github/followers/pritam-ago?label=Follow&style=social)](https://github.com/pritam-ago)
-
-🚀 About Me
-
-    🌐 Exploring the world of Web3, blockchain technology, and backend development.
-    🛠 Currently working on a Decentralized Identity Verification Platform to enable secure and privacy-preserving identity sharing.
-
-💻 What I’m Learning
-
-    🔗 Blockchain basics and tools like Solidity, Ethereum, and Hardhat.
-    🌟 Frontend and backend development with Next.js, Node.js, and the MERN stack.
-    📚 Constantly improving my skills in backend architecture and database management.
+# 💫 About Me:
+🌟 Fast learner with a passion for exploring new technologies.<br>💻 Currently learning JWT authentication to master backend development.<br>🌐 Working on building a donation platform to strengthen my full stack skills.<br>🔗 Interested in Blockchain and its potential to transform the future.<br>📘 Eager to contribute to open-source and grow with the tech community.
 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fruity_gumbo) 
 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat-square&logo=expo&logoColor=#D04A37) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat-square&logo=nodemon&logoColor=%BBDEAD) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=flat-square&logo=pnpm&logoColor=f69220) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat-square&logo=reacthookform&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat-square&logo=yarn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=flat-square&logo=krita&logoColor=EEF37B) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat-square&logo=riotgames&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat-square&logo=unrealengine&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=pritam-ago&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pritam-ago&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pritam-ago&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🖥 Skills
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=pritam-ago&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
-- Backend Development 
-- NoSQL database management
-- Smart Contracts
-### ⚙️ Tech Stack
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-![Bootstrap](https://img.shields.io/badge/-Javascript-05122A?style=for-the-badge&logo=Javascript&color=353535) ![Bootstrap](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=React&color=353535) ![Bootstrap](https://img.shields.io/badge/-Express-05122A?style=for-the-badge&logo=Express&color=353535) ![Bootstrap](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=Node.js&color=353535) ![Bootstrap](https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&logo=MongoDB&color=353535) ![Bootstrap](https://img.shields.io/badge/-Firebase-05122A?style=for-the-badge&logo=Firebase&color=353535) ![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=Git&color=353535) ![Bootstrap](https://img.shields.io/badge/-Expo-05122A?style=for-the-badge&logo=Expo&color=353535) ![Bootstrap](https://img.shields.io/badge/-Nodemon-05122A?style=for-the-badge&logo=Nodemon&color=353535) ![Bootstrap](https://img.shields.io/badge/-NPM-05122A?style=for-the-badge&logo=NPM&color=353535) ![Bootstrap](https://img.shields.io/badge/-PNPM%20-05122A?style=for-the-badge&logo=PNPM&color=353535) ![Bootstrap](https://img.shields.io/badge/-Yarn-05122A?style=for-the-badge&logo=Yarn&color=353535) ![Bootstrap](https://img.shields.io/badge/-Mongoose-05122A?style=for-the-badge&logo=Mongoose&color=353535) ![Bootstrap](https://img.shields.io/badge/-python-05122A?style=for-the-badge&logo=python&color=353535) ![Bootstrap](https://img.shields.io/badge/-Unity-05122A?style=for-the-badge&logo=Unity&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=Visual-Studio-Code&color=353535)
-
-<div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pritam-ago&show_icons=true&locale=en&layout=compact" alt="pritam-ago" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=pritam-ago&" alt="pritam-ago" />
-</div>
-
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=pritam-ago&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-:zap: To generate a `README.md` file like this for your profile, checkout [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/).
+[![](https://visitcount.itsvg.in/api?id=pritam-ago&icon=2&color=12)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
