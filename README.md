@@ -7,7 +7,7 @@
 ## 🌐 Socials:
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/https://x.com/MonsterTonGames)](https://twitter.com/https://x.com/MonsterTonGames)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/vikas-pritam-176601281//)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://www.instagram.com/fruity_gumbo//)]
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/https://www.instagram.com/fruity_gumbo//)](https://www.instagram.com/https://www.instagram.com/fruity_gumbo/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:pritamsocrates@gmail.com)
 
 ### ⚙️ Tech Stack
