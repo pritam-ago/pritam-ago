@@ -1,9 +1,35 @@
 ![Banner](./banner.png)
 
-# 💫 About Me: [![Github](https://img.shields.io/github/followers/pritam-ago?label=Follow&style=social)](https://github.com/pritam-ago)
-🌟 Fast learner with a passion for exploring new technologies.<br>💻 Currently trying to master backend development.<br>🌐 Working on building a donation platform to strengthen my full stack skills.<br>🔗 Interested in Blockchain and its potential to transform the future.<br>📘 Eager to contribute to open-source and grow with the tech community.
+# 🚀 About Me  
+Hey there! I'm **[Your Name]**, a passionate **backend developer** with a strong interest in **blockchain, Web3, and AI**.  
+I'm currently a **first-year CS student**, building cool projects while constantly learning and experimenting with new technologies.  
 
+## 🔥 What I'm Working On  
+- 🏗 **Decentralized Identity Verification Platform** (for a hackathon)  
+- 📝 **Blogging Platform** (Next.js + Supabase)  
+- 🤖 **AI-Powered Trend Prediction for Social Media**  
+- 🚀 **Startup Idea: Hyper-local Home Chef App**  
 
+## ⚡ Tech Stack  
+### Backend  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
+
+### Databases  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+
+### Blockchain  
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)  
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)  
+![Hardhat](https://img.shields.io/badge/Hardhat-f8dc75?style=for-the-badge&logo=hardhat&logoColor=black)  
+
+### AI/ML  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ## 🌐 Socials:
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://x.com/MonsterTonGames)](https://x.com/MonsterTonGames)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-pritam-176601281//)
