@@ -1,6 +1,6 @@
 ![Banner](./banner.png)
 
-# 💫 About Me: [![Github](https://img.shields.io/github/followers/pritam-ago?label=Follow&style=social)](https://github.com/pritam-ago)
+# 💫 About Me: 
 Hey there! I'm **Vikas Pritam**, a passionate **backend developer** with a strong interest in **blockchain, Web3, and AI**.  
 I'm currently a **first-year CS student**, building cool projects while constantly learning and experimenting with new technologies.  
 
@@ -21,11 +21,3 @@ I'm currently a **first-year CS student**, building cool projects while constant
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pritam-ago&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pritam-ago&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=pritam-ago&icon=2&color=12)](https://visitcount.itsvg.in)
