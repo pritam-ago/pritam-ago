@@ -1,7 +1,7 @@
 ![Banner](./banner.png)
 
 # About Me: 
-Hey there! I'm **Vikas Pritam**, a passionate **backend developer** with a strong interest in **blockchain, Web3, and AI**.  
+Hey there! I'm **Vikas Pritam**, a passionate **backend developer** with a strong interest in **blockchain and Web3**.  
 I'm currently a **first-year CS student**, building cool projects while constantly learning and experimenting with new technologies.  
 
 ## 🌐 Socials:
