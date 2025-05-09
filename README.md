@@ -19,10 +19,10 @@ I'm currently a **first-year CS student**, building cool projects while constant
 
 ### 📊 GitHub Stats:
 
-![Pritam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pritam-ago&show_icons=true&theme=radical&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pritam-ago&layout=compact&theme=radical)
+![Pritam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pritam-ago&show_icons=true&theme=gruvbox&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pritam-ago&layout=compact&theme=gruvbox)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pritam-ago&theme=radical)](https://github-readme-streak-stats.herokuapp.com/?user=pritam-ago&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pritam-ago&theme=gruvbox)](https://github-readme-streak-stats.herokuapp.com/?user=pritam-ago&theme=gruvbox)
 
 ---
 
@@ -35,14 +35,14 @@ I'm currently a **first-year CS student**, building cool projects while constant
 ### 🚀 Contributions Overview:
 
 - **Total Contributions:**  
-![Total Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pritam-ago&theme=radical)
+![Total Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pritam-ago&theme=gruvbox)
 
 - **Issues & Pull Requests:**  
-![Issues and PRs](https://github-readme-stats.vercel.app/api?username=pritam-ago&count_private=true&show_icons=true&hide_title=true&theme=radical)
+![Issues and PRs](https://github-readme-stats.vercel.app/api?username=pritam-ago&count_private=true&show_icons=true&hide_title=true&theme=gruvbox)
 
 <!--
 - **Activity Graph:**  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pritam-ago&theme=radical)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pritam-ago&theme=gruvbox)
 -->
 
 ---
