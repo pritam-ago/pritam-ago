@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Pritam+👋;Backend+Dev+%7C+Golang+%7C+Node.js;Building+Systems+%26+Startups;Always+Learning...+🚀" alt="Typing SVG" />
+  <img src="https://github.com/DenverCoder1/readme-typing-svg/raw/main/demo.svg" alt="Typing SVG" />
 </p>
 
 
