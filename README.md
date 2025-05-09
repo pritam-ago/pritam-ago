@@ -1,4 +1,7 @@
-![Banner](./banner.png)
+<p align="center">
+  <img src="https://i.gifer.com/7plR.gif" alt="banner gif" width="100%" />
+</p>
+
 
 # About Me: 
 Hey there! I'm **Vikas Pritam**, a passionate **backend developer** with a strong interest in **blockchain and Web3**.  
