@@ -41,10 +41,8 @@ I'm currently a **first-year CS student**, building cool projects while constant
 - **Issues & Pull Requests:**  
 ![Issues and PRs](https://github-readme-stats.vercel.app/api?username=pritam-ago&count_private=true&show_icons=true&hide_title=true&theme=gruvbox)
 
-<!--
-- **Activity Graph:**  
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pritam-ago&theme=gruvbox)
--->
 
 ---
 
