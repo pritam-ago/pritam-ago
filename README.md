@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+everyone!;This+is+Vikas+Pritam)](https://git.io/typing-svg)
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=Hello+everyone!;This+is+Vikas+Pritam)](https://git.io/typing-svg)
 # About Me: 
 Hey there! I'm **Vikas Pritam**, a passionate **backend developer** with a strong interest in **blockchain and Web3**.  
 I'm currently a **first-year CS student**, building cool projects while constantly learning and experimenting with new technologies.  
@@ -20,10 +18,10 @@ I'm currently a **first-year CS student**, building cool projects while constant
 
 ### 📊 GitHub Stats:
 
-![Pritam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pritam-ago&show_icons=true&theme=gruvbox&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pritam-ago&layout=compact&theme=gruvbox)
+![Pritam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pritam-ago&show_icons=true&theme=radical&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pritam-ago&layout=compact&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pritam-ago&theme=gruvbox)](https://github-readme-streak-stats.herokuapp.com/?user=pritam-ago&theme=gruvbox)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pritam-ago&theme=radical)](https://github-readme-streak-stats.herokuapp.com/?user=pritam-ago&theme=radical)
 
 ---
 
@@ -36,13 +34,12 @@ I'm currently a **first-year CS student**, building cool projects while constant
 ### 🚀 Contributions Overview:
 
 - **Total Contributions:**  
-![Total Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pritam-ago&theme=gruvbox)
+![Total Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pritam-ago&theme=radical)
 
 - **Issues & Pull Requests:**  
-![Issues and PRs](https://github-readme-stats.vercel.app/api?username=pritam-ago&count_private=true&show_icons=true&hide_title=true&theme=gruvbox)
+![Issues and PRs](https://github-readme-stats.vercel.app/api?username=pritam-ago&count_private=true&show_icons=true&hide_title=true&theme=radical)
 
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pritam-ago&theme=gruvbox)
 
 ---
 
