@@ -19,8 +19,6 @@ I'm currently a **first-year CS student**, building cool projects while constant
 ### 📊 GitHub Stats:
 
 ![Pritam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pritam-ago&show_icons=true&theme=radical&count_private=true)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pritam-ago&layout=compact&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pritam-ago&theme=radical)](https://github-readme-streak-stats.herokuapp.com/?user=pritam-ago&theme=radical)
 
 ---
