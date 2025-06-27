@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=Hello+everyone!;This+is+Vikas+Pritam)](https://git.io/typing-svg)
 # About Me: 
 Hey there! I'm **Vikas Pritam**, a passionate **backend developer** with a strong interest in **blockchain and Web3**.  
 I'm currently a **first-year CS student**, building cool projects while constantly learning and experimenting with new technologies.  
