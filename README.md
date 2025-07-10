@@ -1,6 +1,6 @@
 # About Me: 
-Hey there! I'm **Vikas Pritam**, a passionate **backend developer** with a strong interest in **blockchain and Web3**.  
-I'm currently a **first-year CS student**, building cool projects while constantly learning and experimenting with new technologies.  
+Hey there! I'm **Vikas Pritam**, a passionate **backend developer** with a strong interest in **quantum and neuromorphic computing**.  
+I'm currently a **second-year CS student**, building cool projects while constantly learning and experimenting with new technologies.  
 
 ## 🌐 Socials:
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://x.com/MonsterTonGames)](https://x.com/MonsterTonGames)
