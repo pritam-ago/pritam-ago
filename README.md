@@ -15,9 +15,3 @@ I'm currently a **second-year CS student**, building cool projects while constan
 
 ---
 
-### 🏆 GitHub Trophies
-
-![Gruvbox](https://github-profile-trophy.vercel.app/?username=pritam-ago&theme=gruvbox)
-
----
-
